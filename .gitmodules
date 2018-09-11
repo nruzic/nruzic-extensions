@@ -1,0 +1,3 @@
+[submodule "nruzic-extensions-eclipse"]
+	path = nruzic-extensions-eclipse
+	url = git@github.com:nruzic/nruzic-extensions-eclipse.git
